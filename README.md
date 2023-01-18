@@ -1,7 +1,7 @@
 # The United States (US) Research Software Engineer Association
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-66-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## What is this?
@@ -708,6 +708,7 @@ tool to generate a contributors graphic below.
       <td align="center" valign="top" width="14.28%"><a href="http://informaticsnerd.blogspot.com"><img src="https://avatars.githubusercontent.com/u/967970?v=4?s=100" width="100px;" alt="Luke R."/><br /><sub><b>Luke R.</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=lrasmus" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="www.davidbeckingsale.com"><img src="https://avatars.githubusercontent.com/u/334483?v=4?s=100" width="100px;" alt="David Beckingsale"/><br /><sub><b>David Beckingsale</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=davidbeckingsale" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rinkug"><img src="https://avatars.githubusercontent.com/u/768870?v=4?s=100" width="100px;" alt="Rinku Gupta"/><br /><sub><b>Rinku Gupta</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=rinkug" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/manbat"><img src="https://avatars.githubusercontent.com/u/41646490?v=4?s=100" width="100px;" alt="manbat"/><br /><sub><b>manbat</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=manbat" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
