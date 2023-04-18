@@ -362,5 +362,9 @@
     "manning-ncsa": {
         "name": "T. Andrew Manning",
         "blog": "https://github.com/manning-ncsa"
+    },
+    "manbat": {
+        "name": "manbat",
+        "blog": "https://github.com/manbat"
     }
 }
